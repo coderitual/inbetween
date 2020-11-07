@@ -2,7 +2,7 @@
   "name": "inbetween",
   "version": "1.0.0",
   "description": "Your Figma Plugin",
-  "main": "code.js",
+  "main": "dist/code.js",
   "scripts": {
     "start": "/usr/local/bin/node node_modules/.bin/webpack --watch",
     "build": "/usr/local/bin/node node_modules/.bin/webpack --mode=production",
