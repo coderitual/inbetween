@@ -11,7 +11,7 @@ figma.ui.onmessage = msg => {
       figma.currentPage.appendChild(rect)
       nodes.push(rect)
     }
-
+    console.log(a)
     figma.currentPage.selection = nodes
     figma.viewport.scrollAndZoomIntoView(nodes)
   }
