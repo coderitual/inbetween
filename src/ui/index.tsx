@@ -1,7 +1,7 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import './ui.css';
-import logo from './images/logo.svg';
+import logo from '../images/logo.svg';
 
 declare function require(path: string): any;
 
