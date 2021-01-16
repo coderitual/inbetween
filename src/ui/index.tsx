@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import './ui.css';
+import './styles.css';
 import logo from './images/logo.svg';
 
 declare function require(path: string): any;
@@ -27,7 +27,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="flex flex-col">
         <img src={logo} />
         <h2>Rectangle Creator</h2>
         <p>
