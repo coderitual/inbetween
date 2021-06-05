@@ -1,2 +1,2 @@
-# inbetween
+# sigma
 Key frames animation plugin
