@@ -1,2 +1,2 @@
 # sigma
-Import standard document json files back to figma
+Import previously exported project json files back into figma.
