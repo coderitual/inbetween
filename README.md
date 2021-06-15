@@ -1,2 +1,2 @@
 # sigma
-Key frames animation plugin
+Import standard document json files back to figma
