@@ -1,2 +1,2 @@
 # sigma
-Import json files into Figma.
+Import figma designs from json files.
