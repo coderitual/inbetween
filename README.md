@@ -1,3 +1,3 @@
-# Floppy
+# Fencil
 
-> Import figma designs from json files.
+> Easily manage your figma designs and team libraries.
