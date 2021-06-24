@@ -1,3 +1,3 @@
 # Sigma
 
-> Import your HTML/CSS style guide into Figma design system
+Turn your HTML/CSS style guide into Figma design system
