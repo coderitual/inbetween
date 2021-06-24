@@ -1,3 +1,3 @@
-# Fencil
+# Sigma
 
-> Easily manage your figma designs and team libraries.
+> Import JSON design files into Figma 
