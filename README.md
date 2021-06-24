@@ -1,3 +1,3 @@
 # Sigma
 
-> Import JSON design files into Figma 
+> Import your HTML/CSS style guide into Figma design system
