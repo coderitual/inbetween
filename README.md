@@ -1,3 +1,3 @@
-# Sigma
+# Figma-Storybook
 
-Turn your HTML/CSS style guide into Figma design system
+Turn your Storybook components into Figma design system
